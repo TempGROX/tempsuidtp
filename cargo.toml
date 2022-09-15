@@ -2,7 +2,7 @@
 name = "bazuka"
 version = "0.1.0"
 authors = ["Keyvan Kambakhsh <keyvankambakhsh@gmail.com>"]
-edition = "2021"
+edition = "2022"
 
 [dependencies]
 log = "0.4"
